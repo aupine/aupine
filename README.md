@@ -1,5 +1,5 @@
 # Hello, I'm Pine
-### I make very scary stuff oooo
+### what it is short for I don't know (pine tree, pineapple, idc)
 <!--
 **aupine/aupine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
