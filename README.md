@@ -1,3 +1,10 @@
-# Hello, I'm Pine
-### what it is short for I don't know (pine tree, pineapple, idc)
+# My name is Pine
+### What am I doing right now?
 I'm currently developing in Python, HTML, JavaScript, Lua, and C#<br>
+### Experience and Skills
+Python = 
+HTML = 
+JS = 
+Lua = 
+C# =
+### Projects
