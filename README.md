@@ -1,5 +1,5 @@
-### Hello, I'm Pine
-# I make very scary stuff oooo
+# Hello, I'm Pine
+### I make very scary stuff oooo
 <!--
 **aupine/aupine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
