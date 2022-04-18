@@ -8,10 +8,10 @@ JS = XX/XX<br>
 Lua = XX/XX<br>
 C# = XX/XX<br>
 ### Projects
-Comit - n/a
-Sprout - n/a
-Tesser - (delayed due to resource issues)
-LuaLaunchpad - 30%
-Hush Client - 10%
+Comit - n/a<br>
+Sprout - n/a<br>
+Tesser - (delayed due to resource issues)<br>
+LuaLaunchpad - 30%<br>
+Hush Client - 10%<br>
 ### Closing Remarks
 If you would like to join wrf email admin@iuvt.xyz<br>
